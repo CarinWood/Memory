@@ -2,6 +2,8 @@
 
 This is a game made with React.js
 
+![image](/public/images/memorygame.JPG)
+
 <details>
 <summary> Getting Started with Create React App </summary>
 
