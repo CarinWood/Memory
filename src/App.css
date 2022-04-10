@@ -46,5 +46,16 @@
 
 
 
+@media screen and (max-width: 811px) {
+    .cards {
+      width: 700px;
+      margin-top: 40px;
+    }
+}
 
+@media screen and (max-width: 627px) {
+  .cards {
+    width: 400px;
+  }
+}
 
