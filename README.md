@@ -3,7 +3,7 @@
 This is a game made with React.js
 
 <details>
-<summary>## Getting Started with Create React App</summary>
+<summary> ## Getting Started with Create React App </summary>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
