@@ -1,6 +1,6 @@
 # Memory Game
 
-This is a game made with React.js
+Memory game made with React.js
 
 ![image](/public/images/memorygame.JPG)
 
